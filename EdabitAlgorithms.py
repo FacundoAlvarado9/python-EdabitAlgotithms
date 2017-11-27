@@ -52,3 +52,7 @@ def noOdds(lst):
         if item % 2:
             numbers_buf.remove(item)
     return numbers_buf
+
+#Return the four letter strings
+def isFourLetters(lst):
+    return[i for i in lst if len(i)==4]
