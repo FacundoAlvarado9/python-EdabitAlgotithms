@@ -1,6 +1,6 @@
 # python-EdabitAlgotithms
 
-##These are solutions to some of the Edabit.com's Python excercises
+## These are solutions to some of the Edabit.com's Python excercises
 
 If you don't know, Edabit.com is a website in which you can practice algrotihm-creation by solving challenges.
 
@@ -10,4 +10,4 @@ Obviously, the same result can be achieved in different and, possibly, in more e
 If you have other solutions, or soultions to other problems, don't hesitate to collaborate
 Enjoy!
 
-###Long live to Python! 
+### Long live to Python! 
